@@ -1,2 +1,2 @@
 # Spotify clone
-this is made by html and css
+http://static-spotify.s3-website.ap-south-1.amazonaws.com/
